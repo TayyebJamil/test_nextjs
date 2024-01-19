@@ -1,7 +1,7 @@
 export default function MyButton() {
     return (
       <button>
-        I'm a button
+        I am a button
       </button>
     );
   }
